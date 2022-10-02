@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://tunshixingkong.github.io/manifest.json</loc>
+    <loc>https://eiestudy.tk/manifest.json</loc>
     
     <lastmod>2022-10-01</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://tunshixingkong.github.io/undefined/1f03964a.html</loc>
+    <loc>https://eiestudy.tk/undefined/1f03964a.html</loc>
     
     <lastmod>2022-10-01</lastmod>
     
@@ -20,25 +20,7 @@
   </url>
   
   <url>
-    <loc>https://tunshixingkong.github.io/undefined/35ea9aab.html</loc>
-    
-    <lastmod>2022-10-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://tunshixingkong.github.io/undefined/1d29f315.html</loc>
-    
-    <lastmod>2022-10-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://tunshixingkong.github.io/artitalk/index.html</loc>
+    <loc>https://eiestudy.tk/artitalk/index.html</loc>
     
     <lastmod>2022-09-29</lastmod>
     
@@ -47,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://tunshixingkong.github.io/about/index.html</loc>
+    <loc>https://eiestudy.tk/about/index.html</loc>
     
     <lastmod>2022-09-24</lastmod>
     
@@ -56,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://tunshixingkong.github.io/undefined/4a17b156.html</loc>
+    <loc>https://eiestudy.tk/undefined/4a17b156.html</loc>
     
     <lastmod>2022-09-24</lastmod>
     
@@ -65,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://tunshixingkong.github.io/music/index.html</loc>
+    <loc>https://eiestudy.tk/music/index.html</loc>
     
     <lastmod>2022-09-24</lastmod>
     
@@ -74,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://tunshixingkong.github.io/movies/index.html</loc>
+    <loc>https://eiestudy.tk/movies/index.html</loc>
     
     <lastmod>2022-09-24</lastmod>
     
@@ -83,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://tunshixingkong.github.io/link/index.html</loc>
+    <loc>https://eiestudy.tk/link/index.html</loc>
     
     <lastmod>2022-09-22</lastmod>
     
@@ -92,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://tunshixingkong.github.io/categories/index.html</loc>
+    <loc>https://eiestudy.tk/categories/index.html</loc>
     
     <lastmod>2022-09-22</lastmod>
     
@@ -101,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://tunshixingkong.github.io/tags/index.html</loc>
+    <loc>https://eiestudy.tk/tags/index.html</loc>
     
     <lastmod>2022-09-22</lastmod>
     
@@ -111,7 +93,7 @@
   
 
   <url>
-    <loc>https://tunshixingkong.github.io/</loc>
+    <loc>https://eiestudy.tk/</loc>
     <lastmod>2022-10-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -119,21 +101,7 @@
 
   
   <url>
-    <loc>https://tunshixingkong.github.io/tags/%E6%B1%87%E7%8E%87/</loc>
-    <lastmod>2022-10-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://tunshixingkong.github.io/tags/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98/</loc>
-    <lastmod>2022-10-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://tunshixingkong.github.io/tags/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/</loc>
+    <loc>https://eiestudy.tk/tags/%E6%B1%87%E7%8E%87/</loc>
     <lastmod>2022-10-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
